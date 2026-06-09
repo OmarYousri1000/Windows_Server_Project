@@ -1,5 +1,5 @@
 # Markdown
-# 🌐 Enterprise Network Infrastructure via Windows Server (MCSA Project)
+# 🌐 Enterprise Network Infrastructure via Windows Server 
 
 This project demonstrates the design, deployment, and automation of a secure, production-grade enterprise network environment built on Windows Server. It simulates a real-world corporate IT infrastructure featuring centralized identity management, dynamic addressing, advanced Group Policy Objects (GPOs), and administrative delegation.
 
